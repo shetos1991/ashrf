@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# Rebuilt from verified files in the supplied archive
+CACHE:
+../style.css
+index.html
+slopkit/afterglow.js
+slopkit/chain_lapse.js
+slopkit/chain_poops.js
+slopkit/core.js
+slopkit/coreb6f5.js
+slopkit/int64.js
+slopkit/jb2.js
+slopkit/jbce31.js
+slopkit/mem.js
+slopkit/ps4_offsets.js
+slopkit/rpc_worker.js
+
+NETWORK:
+*

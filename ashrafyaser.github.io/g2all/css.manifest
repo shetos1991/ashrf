@@ -1,0 +1,16 @@
+CACHE MANIFEST
+# Rebuilt from verified files in the supplied archive
+CACHE:
+../style.css
+css/css/worker.html
+css/loader.js
+css/main.js
+css/misc.js
+css/ps4/constants.js
+css/ps4/kernel.js
+css/ps4/userland.js
+css/workers.js
+index.html
+
+NETWORK:
+*

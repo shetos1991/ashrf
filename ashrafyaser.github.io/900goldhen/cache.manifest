@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# Rebuilt from verified files in the supplied archive
+CACHE:
+../style.css
+index.html
+int64.js
+kexploit.js
+rop.js
+webkit.js
+
+NETWORK:
+*

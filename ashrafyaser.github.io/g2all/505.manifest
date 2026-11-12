@@ -1,0 +1,9 @@
+CACHE MANIFEST
+# Rebuilt from verified files in the supplied archive
+CACHE:
+../style.css
+505/exploit.js
+index.html
+
+NETWORK:
+*

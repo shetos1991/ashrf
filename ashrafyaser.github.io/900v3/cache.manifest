@@ -1,0 +1,31 @@
+CACHE MANIFEST
+# Rebuilt from verified files in the supplied archive
+CACHE:
+../style.css
+Linux-1gb.js
+Linux-2gb.js
+Linux-3gb.js
+Linux-4gb.js
+LinuxPro-1gb.js
+LinuxPro-2gb.js
+LinuxPro-3gb.js
+LinuxPro-4gb.js
+exploit.js
+frontend.js
+index.html
+int64.js
+jbc_loader.js
+kexploit.js
+malloc.js
+netcat.js
+payload.js
+relocator.js
+rop.js
+rop2.js
+syscalls.js
+syscalls2.js
+webactivator.html
+webkit.js
+
+NETWORK:
+*
